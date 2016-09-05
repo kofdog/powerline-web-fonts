@@ -4,6 +4,26 @@
 		url(fonts/AnonymousPro.woff2) format("woff2");
 }
 @font-face {
+	font-family: Fira Code Bold;
+	src: local("Fira Code Bold"),
+		url(fonts/FiraCode-Bold.woff2) format("woff2");
+}
+@font-face {
+	font-family: Fira Code Light;
+	src: local("Fira Code Light"),
+		url(fonts/FiraCode-Light.woff2) format("woff2");
+}
+@font-face {
+	font-family: Fira Code Medium;
+	src: local("Fira Code Medium"),
+		url(fonts/FiraCode-Medium.woff2) format("woff2");
+}
+@font-face {
+	font-family: Fira Code Regular;
+	src: local("Fira Code Regular"),
+		url(fonts/FiraCode-Regular.woff2) format("woff2");
+}
+@font-face {
 	font-family: Inconsolata;
 	src: local("Inconsolata for Powerline"),
 		url(fonts/Inconsolata.woff2) format("woff2");
