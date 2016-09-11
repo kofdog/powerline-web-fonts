@@ -40,6 +40,14 @@
     font-style: normal;
 }
 @font-face {
+    font-family: "Hasklig Medium";
+    src: url(fonts/Hasklig-Medium.woff2) format("woff2");
+}
+@font-face {
+    font-family: "Hasklig Semibold";
+    src: url(fonts/Hasklig-Semibold.woff2) format("woff2");
+}
+@font-face {
 	font-family: Inconsolata;
 	src: local("Inconsolata for Powerline"),
 		url(fonts/Inconsolata.woff2) format("woff2");
