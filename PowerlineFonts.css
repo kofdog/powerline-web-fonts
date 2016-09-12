@@ -53,6 +53,20 @@
 		url(fonts/Inconsolata.woff2) format("woff2");
 }
 @font-face {
+	font-family: 'Input Mono Medium';
+	src: url('fonts/Input-Regular.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Input Mono';
+	font-weight: 400;
+	src: url('fonts/Input-Regular.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Input Mono';
+	font-weight: 700;
+	src: url('fonts/Input-Bold.woff2') format('woff2');
+}
+@font-face {
 	font-family: 'Iosevka';
 	font-weight: 100;
 	src: url('fonts/iosevka-thin.woff') format('woff');
